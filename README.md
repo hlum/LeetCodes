@@ -15,3 +15,6 @@ Here are some algorithm problems with solutions in Swift:
 
 - ❓ **[Find Missing Number](./findMissingNumber.swift)**  
   *Find the missing number from an array containing `n` distinct numbers in the range `[0, n]`.*
+
+- **[Minimum Time Visiting All Points](./MinimumTimeVisitingAllPoints.swift)**
+    *Find the min time for visiting all points on a 2D plane.*
