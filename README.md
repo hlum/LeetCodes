@@ -18,3 +18,6 @@ Here are some algorithm problems with solutions in Swift:
 
 - **[Minimum Time Visiting All Points](./MinimumTimeVisitingAllPoints.swift)**
     *Find the min time for visiting all points on a 2D plane.*
+
+- ##[How many nums are smaller?](./HowManyNumsAreSmaller.swift)
+    *Find how many nums are smaller than n[i]*
